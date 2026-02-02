@@ -122,14 +122,14 @@
     <h2>🚀 Featured Projects</h2>
     <ul>
         <li>
-            <h3><a href="www.google.com"> Ecicare </a> </h3>
+            <h3><a href="https://github.com/ByteProgramming1"> Ecicare </a> </h3>
             <p> Development of an API for system user management, implementing code coverage to
                 ensure the quality and correct functioning of the software, and integrating it with other APIs for
                 the application’s operation. 
             </p>
         </li>
         <li>
-            <h3><a href=""> Eciciencia </a></h3>
+            <h3><a href="https://github.com/ByteProgramming1"> Eciciencia </a></h3>
             <p> Development of the user management backend module using Java and Spring Boot,
                 integrating services for web clients and the mobile application. Software robustness and quality
                 were also ensured through static analysis and code test coverage using tools such as JaCoCo and
@@ -143,7 +143,8 @@
 <h2> 📊 Stadistics </h3>
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=daniel-pm19&bg_color=0d1117&color=62a0ea&line=62a0ea&point=f97583&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph"/>
-    <img src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=daniel-pm19&count_private=true&show_icons=true&theme=transparent&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff&rank_icon=github&hide=issues,contribs&show=reviews,prs_merged,prs_merged_percentage">
+    <img src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=daniel-pm19&count_private=true&show_icons=true&theme=transparent&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff&rank_icon=github&hide=issues,contribs&show=reviews,prs_merged,prs_merged_percentage" width="400" height="180">
+    <img src="https://github-readme-streak-stats-mu-flame.vercel.app?user=daniel-pm19&theme=github-dark-blue" alt="GitHub Streak" alt="GitHub Streak" width="400" height="180">
 </div>
 
 
