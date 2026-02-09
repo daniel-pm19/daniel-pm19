@@ -88,7 +88,6 @@
         <li>
             <h3 align="left"> DevOps & Cloud Tools </h3>
             <p align="left">
-                <img src="https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=googlecloud&logoColor=orange"/>
                 <img src="https://img.shields.io/badge/Azure-0d1117?style=for-the-badge&logo=googlecloud"/>
                 <img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker"/>  
                 <img src="https://img.shields.io/badge/GitHub_Actions-0d1117?style=for-the-badge&logo=githubactions"/>        
@@ -140,15 +139,18 @@
 <h2> 📊 Stadistics </h3>
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=daniel-pm19&bg_color=0d1117&color=62a0ea&line=62a0ea&point=f97583&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph"/>
-    <img src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=daniel-pm19&count_private=true&show_icons=true&theme=transparent&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff&rank_icon=github&hide=issues,contribs&show=reviews,prs_merged,prs_merged_percentage" width="400" height="170">
-    <img src="https://github-readme-streak-stats-mu-flame.vercel.app?user=daniel-pm19&theme=github-dark-blue" alt="GitHub Streak" alt="GitHub Streak" width="400" height="180">
+    
 </div>
 
 
 <h2>📫 Contact</h2>
 
-<p> 
-    <b> 📧 Email: </b> <a href="mailto:danpame1219@gmail.com">danpame1219@gmail.com</a><br/>
+<p align="center"> 
+    <a href="mailto:danpame1219@gmail.com">
+        <img src="https://img.shields.io/badge/GMAIL-0d1117?style=for-the-badge&logo=gmail"/>
+    </a>
+    <a href="www.linkedin.com/in/daniel-patiño-mejia-3b890a358"><img src="https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=logmein"/></a>
+  
 </p>
 
 <h4 align="center"> ✨ Open to collaboration and professional opportunities ✨</h4>
