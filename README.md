@@ -141,15 +141,13 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=daniel-pm19&bg_color=0d1117&color=62a0ea&line=62a0ea&point=f97583&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph"/>
     
 </div>
-
-
 <h2>📫 Contact</h2>
 
 <p align="center"> 
     <a href="mailto:danpame1219@gmail.com">
         <img src="https://img.shields.io/badge/GMAIL-0d1117?style=for-the-badge&logo=gmail"/>
     </a>
-    <a href="www.linkedin.com/in/daniel-patiño-mejia-3b890a358"><img src="https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=logmein"/></a>
+    <a href="https://www.linkedin.com/in/daniel-patiño-mejia-3b890a358"><img src="https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=logmein"/></a>
   
 </p>
 
